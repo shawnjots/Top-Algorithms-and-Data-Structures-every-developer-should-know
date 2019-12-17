@@ -14,7 +14,7 @@ namespace Selection_Sort
 		{
             int[] arr = { 5, 10, 3, 2, 4, 7, 1, 23, 56, 17, 19, 45, 12, 10, 7 };
             int n = arr.Length;
-            Console.WriteLine("Selection sort");
+           
             Console.Write("Initial array is: ");
             for (int i = 0; i < n; i++)
             {
